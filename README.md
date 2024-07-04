@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikkie02
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on web and mobile development
+- 💞️ I’m looking to collaborate on web and mobile development projects
 - 📫 How to reach me: abivictoria02@gmail.com
 
 <!---
